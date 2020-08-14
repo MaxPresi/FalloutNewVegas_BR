@@ -3,7 +3,7 @@ Tradução do Fallout New Vegas e todas suas DLCs, pacths de correção e vário
 
 Os arquivos .sst são dicionários do xTranslator(nexusmods.com/skyrimspecialedition/mods/134), e precisam dele e dos arquivos originais para serem lidos
 
-Os ESPs e ESMs usados na tradução serão postados depois de pronto, mesmo antes de serem testados.
+Os ESPs e ESMs usados na tradução serão postados depois de prontos, mesmo antes de serem testados.
 
 - Estado Atual da Tradução:
 Boa parte do jogo principal já foi traduiza pela GameVício, onde apenas fiz algumas correções, misturando também com os pacths não oficiais.
