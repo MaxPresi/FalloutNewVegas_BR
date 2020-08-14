@@ -1,14 +1,14 @@
 # Tradução do Fallout New Vegas, DLCs e Mods
 Tradução do Fallout New Vegas e todas suas DLCs, pacths de correção e vários Mods.
 
-Os arquivos .sst são dicionários do xTranslator(nexusmods.com/skyrimspecialedition/mods/134), e precisam dele e dos arquivos originais para serem lidos.
+Os arquivos .sst são dicionários do xTranslator(nexusmods.com/skyrimspecialedition/mods/134), e precisam dele e dos arquivos originais para serem lidos
 
-Os arquivos ESMs e ESPs usados, já traduzidos ou não, são encontrados na pasta ESMs e ESPs (é óbvio).
+Os ESPs e ESMs usados na tradução serão postados depois de pronto, mesmo antes de serem testados.
 
 - Estado Atual da Tradução:
 Boa parte do jogo principal já foi traduiza pela GameVício, onde apenas fiz algumas correções, misturando também com os pacths não oficiais.
 
-- FNV PT-BR.esm (fnv pt-br_en_ptbr.sst)
+- fnv pt-br_en_ptbr.sst (FNV PT-BR.esm) 
   - Essa é a tradução do jogo principal mas as DLCs embutidas num único arquivo ESM. Fiz isso pois a mesclagem ajudou a resolver incompatibilidades en FO3 e Broken Steel, então também achei que ajudaria aqui em possíveis incompatibilidades.
   - O ESM também ajuda em problemas onde a tradução poderia sobrescrever alguns patches oficiais que são ESM e suas alterações. Não queremos isso.
   - Para a tradução funcionar, é necessário todas as DLCs e o YUP:
