@@ -7,7 +7,7 @@ Os ESPs e ESMs usados na tradução serão postados depois de prontos, mesmo ant
 
 
 - fnv pt-br_en_ptbr.sst (FNV PT-BR.esm) 
-  - Essa é a tradução do jogo principal mais as DLCs embutidas num único arquivo ESM. Fiz isso pois a mesclagem ajudou a resolver incompatibilidades en FO3 e Broken Steel, então também achei que ajudaria aqui em possíveis incompatibilidades.
+  - Essa é a tradução do jogo principal mais as DLCs embutidas num único arquivo ESM. Fiz isso pois a mesclagem ajudou a resolver incompatibilidades entre FO3 e Broken Steel, então também achei que ajudaria aqui em possíveis incompatibilidades.
   - O ESM também ajuda em problemas onde a tradução poderia sobrescrever alguns patches oficiais que são ESM e suas alterações. Não queremos isso.
   - Para a tradução funcionar, é necessário todas as DLCs e o YUP:
     - CaravanPack.esm
