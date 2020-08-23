@@ -41,8 +41,8 @@ Mais atualizações e créditos, além de alterações feitas na tradução orig
 
 
 ## Créditos
-<details>
-  <summary>**Créditos pela tradução original da Game-Vício**/summary>
+  <details>
+  <summary>Créditos pela tradução original da Game-Vício</summary>
 
 | Pessoas       | Função        |
 | ------------- |:-------------:|
