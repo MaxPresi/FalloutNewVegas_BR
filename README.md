@@ -114,7 +114,6 @@ adriano.dt	| Revisor
 </details>
 
 - [xTranslator](nexusmods.com/skyrimspecialedition/mods/134) 
-- [Guia dos Palavrões em Inglês Adir Ferreira](https://pt.slideshare.net/MerciaReginaS/guia-dos-palavres-em-ingls) 
 - [Lista de Siglas Militares em PT-BR](http://www.siga.arquivonacional.gov.br/images/codigos_tabelas/cctt_md_2013.pdf) 
 - [Dicionário Cambridge Inglês-Português](https://dictionary.cambridge.org/pt/dicionario/ingles-portugues/) 
 - [Guia dos Palavrões em Inglês Adir Ferreira](https://pt.slideshare.net/MerciaReginaS/guia-dos-palavres-em-ingls) 
