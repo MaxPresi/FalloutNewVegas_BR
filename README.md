@@ -116,7 +116,7 @@ adriano.dt	| Revisor
 - [xTranslator](nexusmods.com/skyrimspecialedition/mods/134) 
 - [Lista de Siglas Militares em PT-BR](http://www.siga.arquivonacional.gov.br/images/codigos_tabelas/cctt_md_2013.pdf) 
 - [Dicionário Cambridge Inglês-Português](https://dictionary.cambridge.org/pt/dicionario/ingles-portugues/) 
-- [Guia dos Palavrões em Inglês Adir Ferreira](https://pt.slideshare.net/MerciaReginaS/guia-dos-palavres-em-ingls) 
+- [Guia dos Palavrões em Inglês - Adir Ferreira](http://www.adirferreira.com.br/wp-content/uploads/2016/12/Guia_dos_Palavroes_em_Ingles.pdf) 
 - [Reverso Translation](https://www.reverso.net/)
 - [Fallout Fandom](https://fallout.fandom.com/)  
 
