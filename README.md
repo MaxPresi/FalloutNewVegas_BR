@@ -28,6 +28,8 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
 - Correção de algumas siglas de patentes militares.
 			
 - Correção da tradução da Crimson Caravan (de Caravana Vermelha para Caravana Carmesim, que a tradução correta de Crimson)
+
+- Muitas coisas em inglês são de gênero neutro, tentei corrigir e manter isso no que encontrei. (ex: "Your friends" quando mencionado os NPCs te acompanhando. Na tradução são referidos como amigos ou amigo (quando é apenas um). Foi corrigido para companhias, que é de genero neutro)
 </details>
 
 ## Arquivos traduizos
