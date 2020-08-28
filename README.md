@@ -28,6 +28,8 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
 - Correção de algumas siglas de patentes militares.
 			
 - Correção da tradução da Crimson Caravan (de Caravana Vermelha para Caravana Carmesim, que a tradução correta de Crimson)
+
+- Muitas coisas em inglês são de gênero neutro, tentei corrigir e manter isso no que encontrei. (ex: "Your friends" quando mencionado os NPCs te acompanhando. Na tradução são referidos como amigos ou amigo (quando é apenas um). Foi corrigido para companhias, que é de genero neutro)
 </details>
 
 ## Arquivos traduizos
@@ -116,7 +118,7 @@ adriano.dt	| Revisor
 - [xTranslator](nexusmods.com/skyrimspecialedition/mods/134) 
 - [Lista de Siglas Militares em PT-BR](http://www.siga.arquivonacional.gov.br/images/codigos_tabelas/cctt_md_2013.pdf) 
 - [Dicionário Cambridge Inglês-Português](https://dictionary.cambridge.org/pt/dicionario/ingles-portugues/) 
-- [Guia dos Palavrões em Inglês Adir Ferreira](https://pt.slideshare.net/MerciaReginaS/guia-dos-palavres-em-ingls) 
+- [Guia dos Palavrões em Inglês - Adir Ferreira](http://www.adirferreira.com.br/wp-content/uploads/2016/12/Guia_dos_Palavroes_em_Ingles.pdf) 
 - [Reverso Translation](https://www.reverso.net/)
 - [Fallout Fandom](https://fallout.fandom.com/)  
 
