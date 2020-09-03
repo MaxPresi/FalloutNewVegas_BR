@@ -5,9 +5,18 @@ Os arquivos .sst são dicionários do [xTranslator](nexusmods.com/skyrimspeciale
 
 Os ESPs e ESMs usados na tradução serão postados depois de prontos, mesmo antes de serem testados.
 
-### Algumas mudanças feitas na tradução base
-<details>
-  <summary>Clique pra expandir</summary>
+## Andamento da tradução
+### Traduzido:
+**Dead Money, YUP**, CaravanPack, ClassicPack, MercenaryPack e TribalPack.
+
+### Tradução em Andamento:
+Honest Hearts e Gun Runners Arsenal
+
+### Tradução Pendente:
+Old World Blues e Lonesome Road
+
+
+# Mudanças feitas na tradução
 Essas mudanças influenciam todas as outras traduções que serão feitas para esse jogo, já que essa é a base.
 Pode estar faltando alguma coisa, nem tudo eu anotei.
 
@@ -34,11 +43,10 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
 - Dead Horse não foi traduzido por ser baseado no nome de um lugar, também usado no jogo: Dead Horse Point. O nome não é traduzido na vida real.
 
 - Ao Contrário do caso acima, alguns nomes de lugares são traduzidos no Brasil, e por isso também foram traduzidos no jogo para manter esse padrão (Virgin para Virgínia, por exemplo)
-</details>
+
 
 ## Arquivos da tradução
-<details>
-  <summary>fnv pt-br_en_ptbr.sst (FNV PT-BR.esm)</summary>
+### fnv pt-br_en_ptbr.sst (FNV PT-BR.esm)
 	
 - Essa é a tradução do jogo principal mais as DLCs embutidas num único arquivo ESM. Fiz isso pois a mesclagem ajudou a resolver incompatibilidades entre FO3 e Broken Steel, então também achei que ajudaria aqui em possíveis incompatibilidades.
 - O ESM também ajuda em problemas onde a tradução poderia sobrescrever alguns patches oficiais que são ESM e suas alterações. Não queremos isso.
@@ -46,7 +54,7 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
   - CaravanPack.esm **(100% Traduzido)**
   - ClassicPack.esm **(100% Traduzido)**
   - DeadMoney.esm **(100% Traduzido)**
-  - GunRunnersArsenal.esm **(Tradução Pendente)**
+  - GunRunnersArsenal.esm **(Tradução em Andamento)**
   - HonestHearts.esm **(Tradução em Andamento)**
   - LonesomeRoad.esm **(Tradução Pendente)**
   - MercenaryPack.esm **(100% Traduzido)**
@@ -55,7 +63,6 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
   - YUP - Base Game + All DLC.esm **(100% Traduzido)**
   - YUP - NPC Fixes (Base Game + All DLC).esp **(100% Traduzido)**
 
-</details>
 
 ## Créditos
   <details>
