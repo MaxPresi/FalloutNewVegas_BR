@@ -30,6 +30,10 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
 - Correção da tradução da Crimson Caravan (de Caravana Vermelha para Caravana Carmesim, que a tradução correta de Crimson)
 
 - Muitas coisas em inglês são de gênero neutro, tentei corrigir e manter isso no que encontrei. (ex: "Your friends" quando mencionado os NPCs te acompanhando. Na tradução são referidos como amigos ou amigo (quando é apenas um). Foi corrigido para companhias, que é de genero neutro)
+
+- Dead Horse não foi traduzido por ser baseado no nome de um lugar, também usado no jogo: Dead Horse Point. O nome não é traduzido na vida real.
+
+- Ao Contrário do caso acima, alguns nomes de lugares são traduzidos no Brasil, e por isso também foram traduzidos no jogo para manter esse padrão (Virgin para Virgínia, por exemplo)
 </details>
 
 ## Arquivos traduizos
