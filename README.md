@@ -15,6 +15,8 @@ Honest Hearts e Gun Runners Arsenal
 ### Tradução Pendente:
 Old World Blues e Lonesome Road
 
+Outros mods ainda serão inclusos após a tradução do jogo completo.
+
 
 # Mudanças feitas na tradução
 Essas mudanças influenciam todas as outras traduções que serão feitas para esse jogo, já que essa é a base.
