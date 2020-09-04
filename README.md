@@ -44,8 +44,6 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
 
 - Dead Horse não foi traduzido por ser baseado no nome de um lugar, também usado no jogo: Dead Horse Point. O nome não é traduzido na vida real.
 
-- Ao Contrário do caso acima, alguns nomes de lugares são traduzidos no Brasil, e por isso também foram traduzidos no jogo para manter esse padrão (Virgin para Virgínia, por exemplo)
-
 
 ## Arquivos da tradução
 ### fnv pt-br_en_ptbr.sst (FNV PT-BR.esm)
