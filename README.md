@@ -34,7 +34,7 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
 			
 - Sérias dificuldades com a tradução de algumas gírias e expressões do DeadMoney (gírias antigas e específicas do local)
 			
-- Troca de palavras para tentar manter o significado (ex:"Four as in 4-BIDDEN!" para "Quatro como em 4-CENTISMO" - Quatrocentismo: Referente aos quatrocentistas, artistas que viveram no séc. XV.)
+- Algumas partes da tradução podem ficar estranhas pra quem entende um pouco de inglês e entender o que o NPC está falando. Tentei ao máximo manter a coerência entre a história, emoções e o que estava sendo dito, mas priorizei o entendimento do contexto e a intenção do NPC.
 			
 - Correção de algumas siglas de patentes militares.
 			
