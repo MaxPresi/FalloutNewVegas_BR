@@ -5,7 +5,6 @@ Os arquivos .sst são dicionários do [xTranslator](nexusmods.com/skyrimspeciale
 
 Os ESPs e ESMs usados na tradução serão postados depois de prontos, mesmo antes de serem testados
 
-E sim, eu sei que já existe uma tradução para as DLCs e etc, mas ela apresentou vários erros pra mim, como diálogos e missões faltando, itens e várias outras coisas. Percebi que dentro do arquivo faltam várias linhas de código do original, e como ele foi feito pra substituir (mesmo renoameando não adianta, porque o arquivo não apenas falta o código, mas tem a linha dizendo que ali não tem nada, então ele sobreescreve apagando a linha original) acaba atrapalhando um pouco. Então eu decidi fazer uma, partindo da base da game-vicio, corrigindo algumas coisas e traduzindo o resto, e embutindo a tradução dos Patchs não oficiais, que também fiz.
 
 ## Andamento da tradução
 ### Traduzido:
@@ -46,7 +45,7 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
 
 - Dead Horse não foi traduzido por ser baseado no nome de um lugar, também usado no jogo: Dead Horse Point. O nome não é traduzido na vida real.
 
-- Ainda existem outras mudanças que serão e estão sendo feitas. A tradução está em constando mudança e repadronização. As que faltam estão em Issues, no post fixado. Conforme forem sendo feitas, virão para essa lista.
+- Ainda existem outras mudanças que serão e estão sendo feitas. A tradução está em constante mudança e repadronização. As que faltam estão em Issues, no post fixado. Conforme forem sendo feitas, virão para essa lista.
 
 ## Arquivos da tradução
 ### fnv pt-br_en_ptbr.sst (FNV PT-BR.esm)
