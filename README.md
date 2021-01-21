@@ -3,7 +3,8 @@ Tradução do Fallout New Vegas e todas suas DLCs, pacths de correção e vário
 
 Os arquivos .sst são dicionários do [xTranslator](nexusmods.com/skyrimspecialedition/mods/134), e precisam dele e dos arquivos originais para serem lidos.
 
-Os ESPs e ESMs usados na tradução serão postados depois de prontos, mesmo antes de serem testados.
+Os ESPs e ESMs usados na tradução serão postados depois de prontos, mesmo antes de serem testados
+
 
 ## Andamento da tradução
 ### Traduzido:
@@ -44,6 +45,7 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
 
 - Dead Horse não foi traduzido por ser baseado no nome de um lugar, também usado no jogo: Dead Horse Point. O nome não é traduzido na vida real.
 
+- Ainda existem outras mudanças que serão e estão sendo feitas. A tradução está em constante mudança e repadronização. As que faltam estão em Issues, no post fixado. Conforme forem sendo feitas, virão para essa lista.
 
 ## Arquivos da tradução
 ### fnv pt-br_en_ptbr.sst (FNV PT-BR.esm)
