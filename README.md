@@ -3,7 +3,7 @@ Tradução do Fallout New Vegas e todas suas DLCs, pacths de correção e vário
 
 Os arquivos .sst são dicionários do [xTranslator](nexusmods.com/skyrimspecialedition/mods/134), e precisam dele e dos arquivos originais para serem lidos.
 
-Os ESPs e ESMs usados na tradução serão postados depois de prontos, mesmo antes de serem testados
+Os ESPs e ESMs usados na tradução serão postados depois de prontos, diretamente no Nexus. Esse repositório existe apenas para me permitir acessar o dicionário de qualquer lugar, para organizar o projeto e permitir que seja usada como base para outras traduções e mods.
 
 
 ## Andamento da tradução
