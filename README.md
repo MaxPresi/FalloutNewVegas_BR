@@ -45,6 +45,10 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
 
 - Dead Horse não foi traduzido por ser baseado no nome de um lugar, também usado no jogo: Dead Horse Point. O nome não é traduzido na vida real.
 
+- Honey mesquite (Prosopis glandulosa) traduzido para Algaroba Mel em vez de Alcachofra de Mel - Não existe o nome em português. Algaroba (Prosopis juliflora) é outra planta, mas é considerada tradução de mesquite, provavelmente por ser o nome usado para o genero botânico (Prosopis) [Referência](https://pt.wikipedia.org/wiki/Prosopis) . Alcachofra não faz o MENOR sentido.
+
+- Think Tank foi traduizdo para Labortatório de Ideias por ser a tradução "oficial" da expressão. [Wikipedia](https://pt.wikipedia.org/wiki/Think_tank#:~:text=Um%20think%20tank%2C%20laborat%C3%B3rio%20de,%2C%20economia%2C%20assuntos%20militares%2C%20de) 
+
 - Ainda existem outras mudanças que serão e estão sendo feitas. A tradução está em constante mudança e repadronização. As que faltam estão em Issues, no post fixado. Conforme forem sendo feitas, virão para essa lista.
 
 ## Arquivos da tradução
