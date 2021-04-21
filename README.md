@@ -49,6 +49,8 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
 
 - Think Tank foi traduizdo para Labortatório de Ideias por ser a tradução "oficial" da expressão - [Wikipedia](https://pt.wikipedia.org/wiki/Think_tank#:~:text=Um%20think%20tank%2C%20laborat%C3%B3rio%20de,%2C%20economia%2C%20assuntos%20militares%2C%20de) 
 
+- O Malapropismo de Mobius. Mobius aparenta ter um problema com troca de palavras por outras com sons parecidos (ex.: reason -> raisin, quite <-> quiet, desert -> dessert, etc). As vezes da pra pegar os erros, mas nem sempre. Na tradução eu mantive a intenção da palavra original (ex.: reason -> razão) e tentei, nos diálogos, colocar uma palavra parecida ainda na tentativa de manter o sentido da palavra trocada (razão -> ração | No original é trocado por raisin, que é passas, mantendo aind aum sentido de "comida" na troca das palavras). Pode ser que tenha passado algo, desculpa.
+
 - Ainda existem outras mudanças que serão e estão sendo feitas. A tradução está em constante mudança e repadronização. As que faltam estão em Issues, no post fixado. Conforme forem sendo feitas, virão para essa lista.
 
 ## Arquivos da tradução
