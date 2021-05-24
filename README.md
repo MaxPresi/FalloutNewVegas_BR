@@ -23,7 +23,7 @@ Outros mods ainda serão inclusos após a tradução do jogo completo.
 Essas mudanças influenciam todas as outras traduções que serão feitas para esse jogo, já que essa é a base.
 Pode estar faltando alguma coisa, nem tudo eu anotei.
 
-- Troquei a tradução do Courier, de Mensageiro para Entregador, devido a DLC Lonesome Road, onde 'o carinha lá que não vou dar spoiler' o chama  o "Courier" de "Messenger" também algumas vezes e de "Mailman" uma vez, separando-os, fazendo chama-lo de Mensageiro (ou mesmo Carteiro) como padrão, completamente sem sentido. Há uam outra referencia também, bem específica, que não irei explicar pois seria uma baita spoiler, que deixa quase que obrigatório chama-lo de Entregador.
+- Troquei a tradução do Courier, de Mensageiro para Entregador, devido a DLC Lonesome Road, onde 'o carinha lá que não vou dar spoiler' o chama  o "Courier" de "Messenger" também algumas vezes e de "Mailman" uma vez, separando-os, fazendo chama-lo de Mensageiro (ou mesmo Carteiro) como padrão, completamente sem sentido. Há uma outra referencia também, bem específica, que não irei explicar pois seria uma baita spoiler, que deixa quase que obrigatório chama-lo de Entregador.
 
 - Tentei corrigir alguns diálogos idiotas (baixa inteligência).
 		
