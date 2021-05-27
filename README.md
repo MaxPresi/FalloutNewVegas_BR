@@ -23,6 +23,9 @@ Outros mods ainda serão inclusos após a tradução do jogo completo.
 Essas mudanças influenciam todas as outras traduções que serão feitas para esse jogo, já que essa é a base.
 Pode estar faltando alguma coisa, nem tudo eu anotei.
 
+- Algumas palavras e expressões usarão a versão em Espanhol, Italiano ou Francês como base, em vez do Inglês, para saber se deveria traduzir ou não (exemplo Dead Horses que todos traduzem e eu não tinha traduzido, mas nenhuma traduz Zion para Sião, como eu tinha traduzido), ou para ter mais de uma referência de tradução (exemplo Courier, que em todas as linguas derivadas do Latim estão com algo referente à Mensageiro, e não Entregador (como eu tinha colocado)).
+O problema é que eu comecei a usar essas referências agora, então elas só contam para os termos presente em Issues (ou seja, o jogo todo) e na tradução de Lonesome Road e Gun Runner.
+
 - Tentei corrigir alguns diálogos idiotas (baixa inteligência).
 		
 - Troca do nome dos marteletes (Bighorn) para Carneiro-Selvagem - [Wikipedia](https://pt.wikipedia.org/wiki/Carneiro-selvagem)
