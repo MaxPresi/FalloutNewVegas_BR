@@ -8,13 +8,13 @@ Os ESPs e ESMs usados na tradução serão postados depois de prontos, diretamen
 
 ## Andamento da tradução
 ### Traduzido:
-**Dead Money, Honest Hearts, Old World Blues, YUP**, CaravanPack, ClassicPack, MercenaryPack e TribalPack.
+**Dead Money, Honest Hearts, Old World Blues,Lonesome Road, YUP**, CaravanPack, ClassicPack, MercenaryPack e TribalPack.
 
 ### Tradução em Andamento:
-Lonesome Road
-
-### Tradução Pendente:
 Gun Runners Arsenal
+
+### Pendente:
+Correção e Revisão da tradução
 
 Outros mods ainda serão inclusos após a tradução do jogo completo.
 
@@ -63,9 +63,9 @@ O problema é que eu comecei a usar essas referências agora, então elas só co
   - CaravanPack.esm **(100% Traduzido)**
   - ClassicPack.esm **(100% Traduzido)**
   - DeadMoney.esm **(100% Traduzido)**
-  - GunRunnersArsenal.esm **(Tradução Pendente)**
+  - GunRunnersArsenal.esm **(Tradução em Andamento)**
   - HonestHearts.esm **(100% Traduzido)**
-  - LonesomeRoad.esm **(Tradução em Andamento)**
+  - LonesomeRoad.esm **(100% Traduzido)**
   - MercenaryPack.esm **(100% Traduzido)**
   - OldWorldBlues.esm **(100% Traduzido)**
   - TribalPack.esm **(100% Traduzido)**
