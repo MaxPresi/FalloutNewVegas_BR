@@ -10,11 +10,10 @@ Os ESPs e ESMs usados na tradução serão postados depois de prontos, diretamen
 ### Traduzido:
 **Dead Money, Honest Hearts, Old World Blues,Lonesome Road, YUP**, CaravanPack, ClassicPack, MercenaryPack e TribalPack.
 
-### Tradução em Andamento:
-Gun Runners Arsenal
+### Estado da Tradução:
+Traduzindo Gun Runners Arsenal e Corrigindo, Revisando e Padronizando a tradução
 
-### Pendente:
-Correção e Revisão da tradução
+Ao fim da tradução e revisão ainda será feita a verificação se existe alguma atualização de alguns dos patchs não oficiais para serem mesclados e se ouver necessidade, traduzir o que for modificado.
 
 Outros mods ainda serão inclusos após a tradução do jogo completo.
 
