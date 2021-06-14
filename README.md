@@ -7,7 +7,7 @@ Os ESPs e ESMs usados na tradução serão postados depois de prontos, diretamen
 
 
 ## Andamento da tradução
-### Traduzindo DLSTRINGS E ILSTRINGS.
+### Traduzindo algumas ILSTRINGS faltantes.
 
 Ao fim da tradução e revisão ainda será feita a verificação se existe alguma atualização de alguns dos patchs não oficiais para serem mesclados e se ouver necessidade, traduzir o que for modificado.
 
