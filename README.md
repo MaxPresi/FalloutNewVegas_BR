@@ -7,11 +7,7 @@ Os ESPs e ESMs usados na tradução serão postados depois de prontos, diretamen
 
 
 ## Andamento da tradução
-### Traduzido:
-**Dead Money, Honest Hearts, Old World Blues,Lonesome Road, YUP**, CaravanPack, ClassicPack, MercenaryPack e TribalPack.
-
-### Estado da Tradução:
-Traduzindo Gun Runners Arsenal e Corrigindo, Revisando e Padronizando a tradução
+### Traduzindo DLSTRINGS E ILSTRINGS.
 
 Ao fim da tradução e revisão ainda será feita a verificação se existe alguma atualização de alguns dos patchs não oficiais para serem mesclados e se ouver necessidade, traduzir o que for modificado.
 
@@ -59,17 +55,17 @@ O problema é que eu comecei a usar essas referências agora, então elas só co
 - Essa é a tradução do jogo principal mais as DLCs embutidas num único arquivo ESM. Fiz isso pois a mesclagem ajudou a resolver incompatibilidades entre FO3 e Broken Steel, então também achei que ajudaria aqui em possíveis incompatibilidades.
 - O ESM também ajuda em problemas onde a tradução poderia sobrescrever alguns patches oficiais que são ESM e suas alterações. Não queremos isso.
 - Para a tradução funcionar, é necessário todas as DLCs e o YUP:
-  - CaravanPack.esm **(100% Traduzido)**
-  - ClassicPack.esm **(100% Traduzido)**
-  - DeadMoney.esm **(100% Traduzido)**
-  - GunRunnersArsenal.esm **(Tradução em Andamento)**
-  - HonestHearts.esm **(100% Traduzido)**
-  - LonesomeRoad.esm **(100% Traduzido)**
-  - MercenaryPack.esm **(100% Traduzido)**
-  - OldWorldBlues.esm **(100% Traduzido)**
-  - TribalPack.esm **(100% Traduzido)**
-  - YUP - Base Game + All DLC.esm **(100% Traduzido)**
-  - YUP - NPC Fixes (Base Game + All DLC).esp **(100% Traduzido)**
+  - CaravanPack.esm
+  - ClassicPack.esm
+  - DeadMoney.esm
+  - GunRunnersArsenal.esm
+  - HonestHearts.esm
+  - LonesomeRoad.esm
+  - MercenaryPack.esm
+  - OldWorldBlues.esm
+  - TribalPack.esm
+  - YUP - Base Game + All DLC.esm
+  - YUP - NPC Fixes (Base Game + All DLC).esp
 
 
 ## Créditos
