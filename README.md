@@ -43,6 +43,8 @@ O problema é que eu comecei a usar essas referências agora, então elas só co
 
 - Honey mesquite (Prosopis glandulosa) traduzido para Algaroba Mel em vez de Alcachofra de Mel - Não existe o nome em português. Algaroba (Prosopis juliflora) é outra planta, mas é considerada tradução de mesquite, provavelmente por ser o nome usado para o genero botânico (Prosopis) - [Referência](https://pt.wikipedia.org/wiki/Prosopis) - Alcachofra não faz o MENOR sentido.
 
+- Alguns diálogos em Honest Hearts podem não estar perfeitamente traduzidos por serem passagens da bíblia. Eu preferi usar as passagens como estão na bíblia em português (NVI) em vez de uma tradução literal diretamente do inglês (Como no diálogo de Joshua sobre Sião, que na verdade ele cita parte do Salmo 137)
+
 - Think Tank foi traduizdo para Labortatório de Ideias por ser a tradução "oficial" da expressão - [Wikipedia](https://pt.wikipedia.org/wiki/Think_tank#:~:text=Um%20think%20tank%2C%20laborat%C3%B3rio%20de,%2C%20economia%2C%20assuntos%20militares%2C%20de) 
 
 - O Malapropismo de Mobius. Mobius aparenta ter um problema com troca de palavras por outras com sons parecidos (ex.: reason -> raisin, quite <-> quiet, desert -> dessert, etc). As vezes da pra pegar os erros, mas nem sempre. Na tradução eu mantive a intenção da palavra original (ex.: reason -> razão) e tentei, nos diálogos, colocar uma palavra parecida ainda na tentativa de manter o sentido da palavra trocada (razão -> ração | No original é trocado por raisin, que é passas, mantendo aind aum sentido de "comida" na troca das palavras). Pode ser que tenha passado algo, desculpa.
@@ -136,4 +138,5 @@ adriano.dt	| Revisor
 - [Guia dos Palavrões em Inglês - Adir Ferreira](http://www.adirferreira.com.br/wp-content/uploads/2016/12/Guia_dos_Palavroes_em_Ingles.pdf) 
 - [Reverso Translation](https://www.reverso.net/)
 - [Fallout Fandom](https://fallout.fandom.com/)  
+- [Bíblia Online](https://www.bibliaon.com/)
 
