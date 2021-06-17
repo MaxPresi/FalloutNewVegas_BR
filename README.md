@@ -7,9 +7,9 @@ Os ESPs e ESMs usados na tradução serão postados depois de prontos, diretamen
 
 
 ## Andamento da tradução
-### Traduzindo algumas ILSTRINGS faltantes.
+### Tradução Finalizada!!!!
 
-Ao fim da tradução e revisão ainda será feita a verificação se existe alguma atualização de alguns dos patchs não oficiais para serem mesclados e se ouver necessidade, traduzir o que for modificado.
+Não há atualização do YUP, então só falta testar pra ver se tá tudo funcionando sem erros e com o tempo corrigir os bugs e erros de tradução. Nesse ponto, quem quiser, irá me ajudar. Sábado, se estiver tudo ok, eu posto o beta da tradução no Nexus!!!
 
 Outros mods ainda serão inclusos após a tradução do jogo completo.
 
