@@ -7,9 +7,7 @@ Os ESPs e ESMs usados na tradução serão postados depois de prontos, diretamen
 
 
 ## Andamento da tradução
-### Tradução Finalizada!!!! Padronizando tradução do YUP de acordo com a da FNV PT-BR
-
-Não há atualização do YUP, então só falta testar pra ver se tá tudo funcionando sem erros e com o tempo corrigir os bugs e erros de tradução. Nesse ponto, quem quiser, irá me ajudar. Sábado, se estiver tudo ok, eu posto o beta da tradução no Nexus!!!
+### Atualizando YUP
 
 Outros mods ainda serão inclusos após a tradução do jogo completo.
 
@@ -77,19 +75,19 @@ O problema é que eu comecei a usar essas referências agora, então elas só co
 | Pessoas       | Função        |
 | ------------- |:-------------:|
 germanio | Administrador do Projeto
-x15_tiago	| Co-Administrador
-bRuNo_CarValhO |	Co-Administrador
-germanio |	Tradutor
-Elenildogba |	Tradutor
-johnsonbr |	Tradutor
-italopimp	| Tradutor
+x15_tiago | Co-Administrador
+bRuNo_CarValhO | Co-Administrador
+germanio | Tradutor
+Elenildogba | Tradutor
+johnsonbr | Tradutor
+italopimp | Tradutor
 ratumau	| Tradutor
-alexcnetojr	| Tradutor
-braultimate |	Tradutor
-felipe.caputo	| Tradutor
-Laiton Garcia	| Tradutor
-Teixeiranunes	| Tradutor
-andxtreme	| Tradutor
+alexcnetojr | Tradutor
+braultimate | Tradutor
+felipe.caputo | Tradutor
+Laiton Garcia | Tradutor
+Teixeiranunes | Tradutor
+andxtreme | Tradutor
 Binhozao	| Tradutor
 Gabriel Arcanjo	| Tradutor
 xhurry	| Tradutor
