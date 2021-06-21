@@ -11,6 +11,9 @@ Os ESPs e ESMs usados na tradução serão postados depois de prontos, diretamen
 
 - Tradução Fallout NV + DLCs: [Nexus](https://www.nexusmods.com/newvegas/mods/72771/)
 - Tradução do YUP: [Nexus](https://www.nexusmods.com/newvegas/mods/72785/)
+- Tradução Asterra's Many Fixes: [Nexus](https://www.nexusmods.com/newvegas/mods/72788)
+- Tradução Logic and Consistency Fixes: [Nexus](https://www.nexusmods.com/newvegas/mods/72790)
+- Tradução Unofficial Patch NVSE Plus: [Nexus](https://www.nexusmods.com/newvegas/mods/72791/)
 
 Para ver os ã, vocês irão precisar do [DarNified UI](https://taleoftwowastelands.com/viewtopic.php?f=55&t=7284).
 Siga as instruções na página de como fazer as fontes funcionarem.
