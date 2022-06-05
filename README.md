@@ -15,8 +15,6 @@ Os ESPs e ESMs usados na tradução serão postados depois de prontos, diretamen
 - Tradução Logic and Consistency Fixes: [Nexus](https://www.nexusmods.com/newvegas/mods/72790)
 - Tradução Unofficial Patch NVSE Plus: [Nexus](https://www.nexusmods.com/newvegas/mods/72791/)
 
-Para ver os ã, vocês irão precisar do [DarNified UI](https://taleoftwowastelands.com/viewtopic.php?f=55&t=7284).
-Siga as instruções na página do mod de como fazer as fontes funcionarem.
 
 Outros mods ainda serão inclusos após a tradução do jogo completo.
 
