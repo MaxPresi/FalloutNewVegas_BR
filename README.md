@@ -27,7 +27,7 @@ Pode estar faltando alguma coisa, nem tudo eu anotei.
 - Algumas palavras e expressões usarão a versão em Espanhol, Italiano ou Francês, em vez do Inglês, como base para saber se deveria traduzir ou não (exemplo Dead Horses que todos traduzem e eu não tinha traduzido, mas nenhuma traduz Zion para Sião, como eu tinha traduzido), ou para ter mais de uma referência de tradução (exemplo Courier, que em todas as linguas derivadas do Latim estão com algo referente à Mensageiro, e não Entregador (como eu tinha colocado)).
 O problema é que eu comecei a usar essas referências agora, então elas só contam para os termos presentes em Issues (que conta pro jogo base e dlcs) e na tradução de Lonesome Road e Gun Runner.
 
-- Correção da palavra ideia por toda tradução da gamevicio, que estavacom acento (idéia).
+- Correção da palavra ideia por toda tradução da gamevicio, que estavam com acento (idéia).
 
 - Correção de gênero de diversos diálogos da tradução da gamevicio.
 
@@ -57,7 +57,7 @@ O problema é que eu comecei a usar essas referências agora, então elas só co
 
 - Think Tank foi traduizdo para Labortatório de Ideias por ser a tradução "oficial" da expressão - [Wikipedia](https://pt.wikipedia.org/wiki/Think_tank#:~:text=Um%20think%20tank%2C%20laborat%C3%B3rio%20de,%2C%20economia%2C%20assuntos%20militares%2C%20de) 
 
-- O Malapropismo de Mobius. Mobius aparenta ter um problema com troca de palavras por outras com sons parecidos (ex.: reason -> raisin, quite <-> quiet, desert -> dessert, etc). As vezes da pra pegar os erros, mas nem sempre. Na tradução eu mantive a intenção da palavra original (ex.: reason -> razão) e tentei, nos diálogos, colocar uma palavra parecida ainda na tentativa de manter o sentido da palavra trocada (razão -> ração | No original é trocado por raisin, que é passas, mantendo aind aum sentido de "comida" na troca das palavras). Pode ser que tenha passado algo, desculpa.
+- O Malapropismo de Mobius. Mobius aparenta ter um problema com troca de palavras por outras com sons parecidos (ex.: reason -> raisin, quite <-> quiet, desert -> dessert, etc). As vezes da pra pegar os erros, mas nem sempre. Na tradução eu mantive a intenção da palavra original (ex.: reason -> razão) e tentei, nos diálogos, colocar uma palavra parecida ainda na tentativa de manter o sentido da palavra trocada (razão -> ração | No original é trocado por raisin, que é passas, mantendo ainda um sentido de "comida" na troca das palavras). Pode ser que tenha passado algo, desculpa.
 
 - Ainda existem outras mudanças que serão e estão sendo feitas. A tradução está em constante mudança e repadronização. As que faltam estão em Issues, no post fixado. Conforme forem sendo feitas, virão para essa lista.
 
