@@ -1,0 +1,3893 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>YUP - NPC Fixes (Base Game + All DLC).esp</Addon>
+    <Source>en</Source>
+    <Dest>ptbr</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>[00000000]</EDID>
+      <REC>TES4:CNAM</REC>
+      <Source>Y|yukichigai</Source>
+      <Dest>Y|yukichigai</Dest>
+    </String>
+    <String List="0">
+      <EDID>[00000000]</EDID>
+      <REC>TES4:SNAM</REC>
+      <Source>Companion file for the Base Game + All DLC version of Yukichigai&apos;s Unofficial Patch.  Contains all edits to NPC records.  Stored separately in an ESP to prevent &quot;whiteface&quot;/body-head color mismatch bug.</Source>
+      <Dest>Companion file for the Base Game + All DLC version of Yukichigai&apos;s Unofficial Patch.  Contains all edits to NPC records.  Stored separately in an ESP to prevent &quot;whiteface&quot;/body-head color mismatch bug.</Dest>
+    </String>
+    <String List="0">
+      <EDID>Harland</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Harland</Source>
+      <Dest>Harland</Dest>
+    </String>
+    <String List="0">
+      <EDID>ChrisHaversam</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chris Haversam</Source>
+      <Dest>Chris Haversam</Dest>
+    </String>
+    <String List="0">
+      <EDID>REPCONGhoul3F</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bright Follower</Source>
+      <Dest>Seguidora da Luz</Dest>
+    </String>
+    <String List="0">
+      <EDID>OldLadyGibson</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Old Lady Gibson</Source>
+      <Dest>Velha Senhora Gibson</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRTrooper1Dead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRTrooper2Dead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRTrooper3Dead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRTrooper4Dead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRTrooperAAMTEMPLATE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>RangerAndy</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Andy</Source>
+      <Dest>Ranger Andy</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADWastelanderAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADWastelanderAF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADWastelanderAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADWastelanderCF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADWastelanderCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADWastelanderHF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADWastelanderHM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADLvlWastelander</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodOfSteelKnightAF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Knight</Source>
+      <Dest>Cavaleiro da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVKnightEDE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Senior Knight Lorenzo</Source>
+      <Dest>Cavaleiro Senior Lorenzo</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodOfSteelKnightCF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Knight</Source>
+      <Dest>Cavaleiro da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodOfSteelKnightCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Knight</Source>
+      <Dest>Cavaleiro da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodOfSteelKnightTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Knight</Source>
+      <Dest>Cavaleiro da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodOfSteelKnightAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Knight</Source>
+      <Dest>Cavaleiro da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRTrooperAAMMelee</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADRaider1MeleeCF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Raider</Source>
+      <Dest>Raider</Dest>
+    </String>
+    <String List="0">
+      <EDID>DeadGhoul2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dead Ghoul</Source>
+      <Dest>Ghoul Morto</Dest>
+    </String>
+    <String List="0">
+      <EDID>AliceMcBride</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Alice McBride</Source>
+      <Dest>Alice McBride</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS02Trooper13</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADWastelanderAAMNV</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADWastelanderCFNV</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRCFCarter</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Carter</Source>
+      <Dest>Carter</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodInitiateTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Initiate</Source>
+      <Dest>Iniciado da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS02WaterMerchant</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Traveling Merchant</Source>
+      <Dest>Comerciante Ambulante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS02Trooper01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>LvlPowderGangerGunNVBisonSteve01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Escaped Convict</Source>
+      <Dest>Condenado Fugido</Dest>
+    </String>
+    <String List="0">
+      <EDID>LtHaggerty</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lt. Haggerty</Source>
+      <Dest>Ten. Haggerty</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodInitiateCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Initiate</Source>
+      <Dest>Aprendiz da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>Ramos</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Paladin Ramos</Source>
+      <Dest>Paladino Ramos</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVTorres</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Knight Torres</Source>
+      <Dest>Cavaleiro Torres</Dest>
+    </String>
+    <String List="0">
+      <EDID>LindaSchuler</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Senior Scribe Schuler</Source>
+      <Dest>Escriba Sênior Schuler</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodInitiateAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Initiate</Source>
+      <Dest>Aprendiz da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodInitiateAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Initiate</Source>
+      <Dest>Aprendiz da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodInitiateCF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Initiate</Source>
+      <Dest>Aprendiz da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodInitiateAAF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Initiate</Source>
+      <Dest>Aprendiz da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodInitiateHF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Initiate</Source>
+      <Dest>Aprendiz da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeCF2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeCM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeAAF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeCF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodOfSteelPaladinDayTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Paladin</Source>
+      <Dest>Paladino da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>PrimmLanceCorporalMcGee</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sergeant McGee</Source>
+      <Dest>Sargento McGee</Dest>
+    </String>
+    <String List="0">
+      <EDID>PrimmCorporalHayes</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lieutenant Hayes</Source>
+      <Dest>Tenente Hayes</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeTeacher</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>MelissaWatkins</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Apprentice Watkins</Source>
+      <Dest>Aprendiz Watkins</Dest>
+    </String>
+    <String List="0">
+      <EDID>LarsTaggart</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Head Scribe Taggart</Source>
+      <Dest>Mestre Escriba Taggart</Dest>
+    </String>
+    <String List="0">
+      <EDID>Veronica</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veronica</Source>
+      <Dest>Veronica</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeMatrixCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeMatrixAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeMatrixAF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>PrimmSergeantLee</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sergeant Lee</Source>
+      <Dest>Sargento Lee</Dest>
+    </String>
+    <String List="0">
+      <EDID>PrimmTrooper01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>SupplyOfficerContreras</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sgt. Daniel Contreras</Source>
+      <Dest>Sarg. Daniel Contreras</Dest>
+    </String>
+    <String List="0">
+      <EDID>188Alexander</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Alexander</Source>
+      <Dest>Alexander</Dest>
+    </String>
+    <String List="0">
+      <EDID>RaulTejada</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Raul</Source>
+      <Dest>Raul</Dest>
+    </String>
+    <String List="0">
+      <EDID>188NCRTrooperB</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>188NCRTrooperC</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>ElReyDeadDruggie</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>PrimmTyrone</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Tyrone</Source>
+      <Dest>Tyrone</Dest>
+    </String>
+    <String List="0">
+      <EDID>eldoradoNCRTrooper1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>eldoradoNCRSergeant</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Sergeant</Source>
+      <Dest>Sargento da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>188NCRTrooperE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>188NCRTrooperF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>ColonelHsu</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Col. James Hsu</Source>
+      <Dest>Cel. James Hsu</Dest>
+    </String>
+    <String List="0">
+      <EDID>LieutenantBoyd</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lt. Carrie Boyd</Source>
+      <Dest>Ten. Carrie Boyd</Dest>
+    </String>
+    <String List="0">
+      <EDID>CaptainCurtis</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Capt. Ronald Curtis</Source>
+      <Dest>Cap. Ronald Curtis</Dest>
+    </String>
+    <String List="0">
+      <EDID>CorporalFarber</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Cpl. William Farber</Source>
+      <Dest>Cb. William Farber</Dest>
+    </String>
+    <String List="0">
+      <EDID>PrivateMorales</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Pvt. Christina Morales</Source>
+      <Dest>Sd. Christina Morales</Dest>
+    </String>
+    <String List="0">
+      <EDID>WestsideMiguel</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Miguel</Source>
+      <Dest>Miguel</Dest>
+    </String>
+    <String List="0">
+      <EDID>QJGreatKhanHM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>LvlRaiderGunNVDead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Fiend Corpse</Source>
+      <Dest>Cadáver de Diabo</Dest>
+    </String>
+    <String List="0">
+      <EDID>BMNCRTrooperCrushed</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>BMNCRTrooper1Dead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>BMNCRTrooper3Dead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>ScorpionsGangRoller</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Roller</Source>
+      <Dest>Roller</Dest>
+    </String>
+    <String List="0">
+      <EDID>CrimsonCaravanGuardAAMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crimson Caravan Guard</Source>
+      <Dest>Guarda da Caravana Carmesim</Dest>
+    </String>
+    <String List="0">
+      <EDID>CrimsonCaravaneerAAMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Caravaneer</Source>
+      <Dest>Caravaneiro</Dest>
+    </String>
+    <String List="0">
+      <EDID>GunRunnerIsaac</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Isaac</Source>
+      <Dest>Isaac</Dest>
+    </String>
+    <String List="0">
+      <EDID>ScorpionsGangYvette</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Yvette</Source>
+      <Dest>Yvette</Dest>
+    </String>
+    <String List="0">
+      <EDID>NorthVegasCrandon</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crandon</Source>
+      <Dest>Crandon</Dest>
+    </String>
+    <String List="0">
+      <EDID>SergeantJacobs</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sgt. Warren Jacobs</Source>
+      <Dest>Sarg. Warren Jacobs</Dest>
+    </String>
+    <String List="0">
+      <EDID>1ESharecropperAAMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sharecropper</Source>
+      <Dest>Arrendatário</Dest>
+    </String>
+    <String List="0">
+      <EDID>1EDeadGuy</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>RangerThomasDEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Jackson</Source>
+      <Dest>Ranger Jackson</Dest>
+    </String>
+    <String List="0">
+      <EDID>V03BryceAnders</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bryce Anders</Source>
+      <Dest>Bryce Anders</Dest>
+    </String>
+    <String List="0">
+      <EDID>GnGLupe</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lupe</Source>
+      <Dest>Lupe</Dest>
+    </String>
+    <String List="0">
+      <EDID>V03FiendShooter</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Fiend</Source>
+      <Dest>Diabo</Dest>
+    </String>
+    <String List="0">
+      <EDID>1ETrentBascom</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Trent Bascom</Source>
+      <Dest>Trent Bascom</Dest>
+    </String>
+    <String List="0">
+      <EDID>1ERomanowski</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lieutenant Romanowski</Source>
+      <Dest>Tenente Romanowski</Dest>
+    </String>
+    <String List="0">
+      <EDID>GnGFitz</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Fitz</Source>
+      <Dest>Fitz</Dest>
+    </String>
+    <String List="0">
+      <EDID>WestsideAnderson</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Anderson</Source>
+      <Dest>Anderson</Dest>
+    </String>
+    <String List="0">
+      <EDID>CrimsonCaravanBlake</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Blake</Source>
+      <Dest>Blake</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVNCRAgentKeller</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Keller</Source>
+      <Dest>Keller</Dest>
+    </String>
+    <String List="0">
+      <EDID>NorthVegasMrHostetler</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Don Hostetler</Source>
+      <Dest>Don Hostetler</Dest>
+    </String>
+    <String List="0">
+      <EDID>1ESharecropperPrivateOrtega</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Private Ortega</Source>
+      <Dest>Soldado Ortega</Dest>
+    </String>
+    <String List="0">
+      <EDID>GunRunnerGunsmithCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Gun Runner Gunsmith</Source>
+      <Dest>Armeiro dos Mestres das Armas</Dest>
+    </String>
+    <String List="0">
+      <EDID>Fiend3RifleAADead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Fiend</Source>
+      <Dest>Diabo</Dest>
+    </String>
+    <String List="0">
+      <EDID>Fiend3MeleeAMNVDead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Fiend</Source>
+      <Dest>Diabo</Dest>
+    </String>
+    <String List="0">
+      <EDID>1E10ofSpades</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>10 of Spades</Source>
+      <Dest>10 de Espadas</Dest>
+    </String>
+    <String List="0">
+      <EDID>1EMajorDhatri</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Major Dhatri</Source>
+      <Dest>Major Dhatri</Dest>
+    </String>
+    <String List="0">
+      <EDID>1ECorporalSterling</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Corporal Sterling</Source>
+      <Dest>Cabo Sterling</Dest>
+    </String>
+    <String List="0">
+      <EDID>1ESergeantBitterRoot</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sergeant Bitter-Root</Source>
+      <Dest>Sargento Raiz-Forte</Dest>
+    </String>
+    <String List="0">
+      <EDID>1ECorporalBetsy</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Corporal Betsy</Source>
+      <Dest>Cabo Betsy</Dest>
+    </String>
+    <String List="0">
+      <EDID>1ELieutenantGorobets</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lieutenant Gorobets</Source>
+      <Dest>Tenente Gorobets</Dest>
+    </String>
+    <String List="0">
+      <EDID>1ECookCook</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Cook-Cook</Source>
+      <Dest>Cook-Cook</Dest>
+    </String>
+    <String List="0">
+      <EDID>PrivateCrenshaw</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Pvt. Davey Crenshaw</Source>
+      <Dest>Sd. Davey Crenshaw</Dest>
+    </String>
+    <String List="0">
+      <EDID>1ECaptainParker</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Captain Parker</Source>
+      <Dest>Capitão Parker</Dest>
+    </String>
+    <String List="0">
+      <EDID>1EBertGunnarsson</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bert Gunnarsson</Source>
+      <Dest>Bert Gunnarsson</Dest>
+    </String>
+    <String List="0">
+      <EDID>KlamathBob</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Klamath Bob</Source>
+      <Dest>Klamath Bob</Dest>
+    </String>
+    <String List="0">
+      <EDID>WestsideDermot</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dermot</Source>
+      <Dest>Dermot</Dest>
+    </String>
+    <String List="0">
+      <EDID>WestsideSaintJames</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Saint James</Source>
+      <Dest>Saint James</Dest>
+    </String>
+    <String List="0">
+      <EDID>CorporalHornsby</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Cpl. Walter Hornsby</Source>
+      <Dest>Cb. Walter Hornsby</Dest>
+    </String>
+    <String List="0">
+      <EDID>WestsideEttienne</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Etienne</Source>
+      <Dest>Etienne</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMcCarranNCRTrooperMonorail2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMcCarranNCRTrooperMonorail3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRTrooperMcCarranHF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>McCarranFieldTrooperAAMTEMPLATE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>McCarranFieldTrooperAAF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>McCarranFieldTrooperCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRTrooperMcCarranInterior10</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>McCarranDrillSergeant</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Drill Sergeant</Source>
+      <Dest>Sargento Instrutor</Dest>
+    </String>
+    <String List="0">
+      <EDID>McCarranObstacleCourseRunner1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Recruit</Source>
+      <Dest>Recruta da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>McCarranObstacleCourseRunner2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Recruit</Source>
+      <Dest>Recruta da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NellisJack</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Jack</Source>
+      <Dest>Jack</Dest>
+    </String>
+    <String List="0">
+      <EDID>Benny</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Benny</Source>
+      <Dest>Benny</Dest>
+    </String>
+    <String List="0">
+      <EDID>NewVegasPatrolTrooperCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>2CHanlon</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chief Hanlon</Source>
+      <Dest>Chefe Hanlon</Dest>
+    </String>
+    <String List="0">
+      <EDID>2CPoindexter</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Poindexter</Source>
+      <Dest>Poindexter</Dest>
+    </String>
+    <String List="0">
+      <EDID>2COHanrahan</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>O&apos;Hanrahan</Source>
+      <Dest>O&apos;Hanrahan</Dest>
+    </String>
+    <String List="0">
+      <EDID>2CMcCredie</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sgt. McCredie</Source>
+      <Dest>Sarg. McCredie</Dest>
+    </String>
+    <String List="0">
+      <EDID>2CRazz</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Razz</Source>
+      <Dest>Razz</Dest>
+    </String>
+    <String List="0">
+      <EDID>2CMags</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mags</Source>
+      <Dest>Mags</Dest>
+    </String>
+    <String List="0">
+      <EDID>GSJoeCobb</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Joe Cobb</Source>
+      <Dest>Joe Cobb</Dest>
+    </String>
+    <String List="0">
+      <EDID>GSSettlerAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Goodsprings Settler</Source>
+      <Dest>Colono de Goodsprings </Dest>
+    </String>
+    <String List="0">
+      <EDID>BoomerCook1M</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Boomer Chef</Source>
+      <Dest>Cozinheiro Boomer</Dest>
+    </String>
+    <String List="0">
+      <EDID>Boomer01Fb29Welder</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Boomer</Source>
+      <Dest>Boomer</Dest>
+    </String>
+    <String List="0">
+      <EDID>Boomer02Fb29Welder</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Boomer</Source>
+      <Dest>Boomer</Dest>
+    </String>
+    <String List="0">
+      <EDID>Boomer01Mb29Welder</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Boomer</Source>
+      <Dest>Boomer</Dest>
+    </String>
+    <String List="0">
+      <EDID>Boomer02Mb29Welder</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Boomer</Source>
+      <Dest>Boomer</Dest>
+    </String>
+    <String List="0">
+      <EDID>DeadCrimsonCaravanGuardCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crimson Caravan Guard</Source>
+      <Dest>Guarda da Caravana Carmesim</Dest>
+    </String>
+    <String List="0">
+      <EDID>DeadCrimsonCaravanGuardAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crimson Caravan Guard</Source>
+      <Dest>Guarda da Caravana Carmesim</Dest>
+    </String>
+    <String List="0">
+      <EDID>DeadCrimsonCaravanGuardAF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crimson Caravan Guard</Source>
+      <Dest>Guarda da Caravana Carmesim</Dest>
+    </String>
+    <String List="0">
+      <EDID>DeadPowderGanger1GunCM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>DeadPowderGanger1MeleeAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVInitiateStanton</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Initiate Stanton</Source>
+      <Dest>Aprendiz Stanton</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVScribeIbsen</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Scribe Ibsen</Source>
+      <Dest>Escriba Ibsen</Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfNCRTrooperF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfNCRTrooperCommandTentD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfNCRTrooperTower2B</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfRanger1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfRanger2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfRanger3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfRanger4</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfRanger10</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfRanger11</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfRanger12</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfNCRTrooperWanderA</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSGloriaVanGraff</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Gloria Van Graff</Source>
+      <Dest>Gloria Van Graff</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSJamesGarret</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>James Garret</Source>
+      <Dest>James Garret</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSFrancineGarret</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Francine Garret</Source>
+      <Dest>Francine Garret</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSJeanBaptisteCutting</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Jean-Baptiste Cutting</Source>
+      <Dest>Jean-Baptiste Cutting</Dest>
+    </String>
+    <String List="0">
+      <EDID>BCLieutenantMonroe</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lieutenant Monroe</Source>
+      <Dest>Tenente Monroe</Dest>
+    </String>
+    <String List="0">
+      <EDID>BCIke</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ike</Source>
+      <Dest>Ike</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS21Nero</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Nero</Source>
+      <Dest>Nero</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS21BigSal</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Big Sal</Source>
+      <Dest>Grande Sal</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS21Liza</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Liza O&apos;Malley</Source>
+      <Dest>Liza O&apos;Malley</Dest>
+    </String>
+    <String List="0">
+      <EDID>vGOMMuscle00Template</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Omerta Thug</Source>
+      <Dest>Membro da Omerta</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSRalph</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ralph</Source>
+      <Dest>Ralph</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSMick</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mick</Source>
+      <Dest>Mick</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSArcadeGannon</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Arcade Gannon</Source>
+      <Dest>Arcade Gannon</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS18Marjorie</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Marjorie</Source>
+      <Dest>Marjorie</Dest>
+    </String>
+    <String List="0">
+      <EDID>BCTrooperHostageAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Private Ackerman</Source>
+      <Dest>Soldado Ackerman</Dest>
+    </String>
+    <String List="0">
+      <EDID>RSAlphaCastillo</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Comm Officer Castillo</Source>
+      <Dest>Oficial de Comando Castillo</Dest>
+    </String>
+    <String List="0">
+      <EDID>BCTrooperHostageCF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Private Gilbert</Source>
+      <Dest>Soldado Gilbert</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSDebtGrecks</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Grecks</Source>
+      <Dest>Grecks</Dest>
+    </String>
+    <String List="0">
+      <EDID>RSBravoTilden</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Comm Officer Tilden</Source>
+      <Dest>Oficial de Comunicação Tilden</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStreetMPAAMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Military Police</Source>
+      <Dest>Policial Militar da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStreetMariePappas</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Captain Marie Pappas</Source>
+      <Dest>Capitã Marie Pappas</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStreetJakeErwin</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Private Jake Erwin</Source>
+      <Dest>Soldado Jake Erwin</Dest>
+    </String>
+    <String List="0">
+      <EDID>vGOMBouncer01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Omerta Thug</Source>
+      <Dest>Omerta Thug</Dest>
+    </String>
+    <String List="0">
+      <EDID>SarahWeintraub</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sarah</Source>
+      <Dest>Sarah</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStreetNCRTravelerHMa</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Traveler</Source>
+      <Dest>Viajante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStreetNCRGamblerCMa</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Gambler</Source>
+      <Dest>Apostador</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSOffDutyNCRTrooper01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSOffDutyNCRTrooper02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSOffDutyNCRTrooper03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSOffDutyNCRTrooper04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSHighTimesDealer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dixon</Source>
+      <Dest>Dixon</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS18WhiteGloveCF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>White Glove</Source>
+      <Dest>White Glove</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS18HeadWaiter</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Head Waiter</Source>
+      <Dest>Encarregado</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSVanGraffThug05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Van Graff Thug</Source>
+      <Dest>Bandido Van Graff</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSVanGraffThug01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Van Graff Thug</Source>
+      <Dest>Bandido Van Graff</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSVanGraffThug08</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Van Graff Thug</Source>
+      <Dest>Bandido Van Graff</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSSimon</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Van Graff Thug</Source>
+      <Dest>Bandido Van Graff</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSVanGraffThug02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Van Graff Thug</Source>
+      <Dest>Bandido Van Graff</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSVanGraffThug03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Van Graff Thug</Source>
+      <Dest>Bandido Van Graff</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSVanGraffThug04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Van Graff Thug</Source>
+      <Dest>Bandido Van Graff</Dest>
+    </String>
+    <String List="0">
+      <EDID>Lucky38FollowerEmily</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Emily Ortal</Source>
+      <Dest>Emily Ortal</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsChairman1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chairman</Source>
+      <Dest>Executivo</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS18WhiteGloveBartender</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bartender</Source>
+      <Dest>Garçonete</Dest>
+    </String>
+    <String List="0">
+      <EDID>BCPrivateKowalski</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Private Kowalski</Source>
+      <Dest>Soldado Kowalski</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS18WhiteGlovePitBoss</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>White Glove</Source>
+      <Dest>White Glove</Dest>
+    </String>
+    <String List="0">
+      <EDID>RSAlphaLineholm</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Lineholm</Source>
+      <Dest>Ranger Lineholm</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS18WhiteGloveCMWaiter</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>White Glove</Source>
+      <Dest>White Glove</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionaryRecruitCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>RSBravoEricsen</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Ericsen</Source>
+      <Dest>Ranger Ericsen</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionaryInstructor</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Legionary Instructor</Source>
+      <Dest>Instrutor da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionaryRecruitHM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>WalterPhebus</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Walter Phebus</Source>
+      <Dest>Walter Phebus</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS21HitMan</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Button Man</Source>
+      <Dest>Button Man</Dest>
+    </String>
+    <String List="0">
+      <EDID>EthelPhebus</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ethel Phebus</Source>
+      <Dest>Ethel Phebus</Dest>
+    </String>
+    <String List="0">
+      <EDID>RSDeltaPason</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Pason</Source>
+      <Dest>Ranger Pason</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaider</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderHRifle</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryDeadSea</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dead Sea</Source>
+      <Dest>Mar Morto</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryExplorer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Legion Explorer</Source>
+      <Dest>Explorador da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>vGOMProstituteDead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Gomorrah Prostitute</Source>
+      <Dest>Prostituta de Gomorrah</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMSTopsHadrian</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Hadrian</Source>
+      <Dest>Hadrian</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortSiri</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Siri</Source>
+      <Dest>Siri</Dest>
+    </String>
+    <String List="0">
+      <EDID>RSEchoErasmus</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Erasmus</Source>
+      <Dest>Ranger Erasmus</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortDaleBarton</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dale Barton</Source>
+      <Dest>Dale Barton</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortAntony</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Antony</Source>
+      <Dest>Antony</Dest>
+    </String>
+    <String List="0">
+      <EDID>RSFoxtrotKudlow</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Kudlow</Source>
+      <Dest>Ranger Kudlow</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDColonelMoore</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Colonel Cassandra Moore</Source>
+      <Dest>Coronel Cassandra Moore</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStreetNCRTrooperCFb</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VCFHAlexRichards</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dr. Richards</Source>
+      <Dest>Dr. Richards</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRTrooperAAMTEMPLATE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRTrooperInjuredTEMPLATE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRTrooperInjuredAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRTrooperInjuredCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionaryVexillariusAAMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Legion Vexillarius</Source>
+      <Dest>Vexilários da legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSHighTimesDealerThug2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Thug</Source>
+      <Dest>Gângster</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSHighTimesDealerThug1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Thug</Source>
+      <Dest>Gângster</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRTrooperInjured01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Injured Trooper</Source>
+      <Dest>Soldado Ferido</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRTrooperInjured02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Injured Trooper</Source>
+      <Dest>Soldado Ferido</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRTrooperInjured03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Injured Trooper</Source>
+      <Dest>Soldado Ferido</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortOtho</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Otho</Source>
+      <Dest>Otho</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortVulpesInculta</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Vulpes Inculta</Source>
+      <Dest>Vulpes Inculta</Dest>
+    </String>
+    <String List="0">
+      <EDID>vGOMBartender01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bartender</Source>
+      <Dest>Garçom</Dest>
+    </String>
+    <String List="0">
+      <EDID>vGOMBartender05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bartender</Source>
+      <Dest>Bartender</Dest>
+    </String>
+    <String List="0">
+      <EDID>vGOMBartenderRandom</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bartender</Source>
+      <Dest>Garçom</Dest>
+    </String>
+    <String List="0">
+      <EDID>TecLegionaryRaider</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSKingWaterPumpGreeter</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Tapper</Source>
+      <Dest>Tapper</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRTrooperJailer01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSFollowersGuardGF2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Guarda dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSFollowersGuardGM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Guarda dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSFollowersGuardGM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Guarda dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSFollowersGuardGF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Guarda dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS26TrooperWillis</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Trooper Willis</Source>
+      <Dest>Soldado Willis</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS26LesFretwell</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>MP Fretwell</Source>
+      <Dest>PM Fretwell</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSSilverRushLegionContact</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Strange Man</Source>
+      <Dest>Homem Estranho</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderCM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderCM3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderCM4</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderCM5</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderHRifle2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRTrooperAssaultTEMPLATE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSLegionWarehouseVeteranCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSLegionWarehouseDecanus</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Decanus</Source>
+      <Dest>Decano Primário</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSLegionWarehouseVeteran03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSLegionWarehouseVeteran02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSLegionWarehouseVeteran01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSLegionWarehouseVeteran04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS21aOmertaThug01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Omerta Thug</Source>
+      <Dest>Membro da Omerta</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS21aOmertaThug02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Omerta Thug</Source>
+      <Dest>Membro da Omerta</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS21aOmertaThug03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Omerta Thug</Source>
+      <Dest>Membro da Omerta</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionaryBlacksmithAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Legionary Blacksmith</Source>
+      <Dest>Ferreiro Legionário</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionarySparringAAMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Legionary</Source>
+      <Dest>Legionário Veterano</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionarySparringCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Legionary</Source>
+      <Dest>Legionário Veterano</Dest>
+    </String>
+    <String List="0">
+      <EDID>NelsonNCRTrooper2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderShotgun</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeMP04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Heavy Trooper</Source>
+      <Dest>Soldado Pesado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeMP03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Heavy Trooper</Source>
+      <Dest>Soldado Pesado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>CharlieInteriorRanger</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRTrooperDeadNelson</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRTrooperDeadNelson2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS21aOmertaThug04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Omerta Thug</Source>
+      <Dest>Membro da Omerta</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionaryBlacksmithHM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Legionary Blacksmith</Source>
+      <Dest>Legionary Blacksmith</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS30LegionRaiderAmbush01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS30LegionRaiderAmbush02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS30LegionRaiderAmbush03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>vGOMCashroomGuard</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Gomorrah Cash Room Guard</Source>
+      <Dest>Guarda da Sala de Dinheiro de Gomorrah</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsGreeter1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chairman Greeter</Source>
+      <Dest>Recepcionista Executivo</Dest>
+    </String>
+    <String List="0">
+      <EDID>vForlornHopeNCRRangerPatrolTEMPLATE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS33OmertaThug01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Omerta Thug</Source>
+      <Dest>Membro da Omerta</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS33OmertaThug02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Omerta Thug</Source>
+      <Dest>Omerta Thug</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS33OmertaThug03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Omerta Thug</Source>
+      <Dest>Omerta Thug</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsChairman2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chairman</Source>
+      <Dest>Executivo</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsChairman3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chairman</Source>
+      <Dest>Executivo</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsChairmanElite1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chairman</Source>
+      <Dest>Executivo</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsChairmanElite2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chairman</Source>
+      <Dest>Executivo</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsChairmanElite3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chairman</Source>
+      <Dest>Executivo</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsGreeter2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chairman Greeter</Source>
+      <Dest>Recepcionista Executivo</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSPacerThug05Dead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dead King</Source>
+      <Dest>Rei Morto</Dest>
+    </String>
+    <String List="0">
+      <EDID>vTopsBartenderRandom</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bartender</Source>
+      <Dest>Garçon</Dest>
+    </String>
+    <String List="0">
+      <EDID>vTopsBartender01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bartender</Source>
+      <Dest>Garçon</Dest>
+    </String>
+    <String List="0">
+      <EDID>vTopsBartender03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bartender</Source>
+      <Dest>Bartender</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSLocalTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Local</Source>
+      <Dest>Morador</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSFollowersGuard4</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Guarda dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSFollowersGuard3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Guarda dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSFollowersGuard1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Guarda dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>vForlornHopeNCRRangerCombatTEMPLATE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Veteran Ranger</Source>
+      <Dest>Ranger Veterano da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRRangerPAssaultTEMPLATE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRRangerCAssaultTEMPLATE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRRangerPAssault01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRRangerPAssault02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRRangerPAssault03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRRangerPAssault04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRRangerCAssault01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRRangerCAssault02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRRangerCAssault03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRRangerCAssault04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VBSCaptainGilles</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Captain Gilles</Source>
+      <Dest>Capitão Gilles</Dest>
+    </String>
+    <String List="0">
+      <EDID>VBSLieutenantMarkland</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lieutenant Markland</Source>
+      <Dest>Tenente Markland</Dest>
+    </String>
+    <String List="0">
+      <EDID>VBSOscarVelasco</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Oscar Velasco</Source>
+      <Dest>Oscar Velasco</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCAurelius</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Aurelius of Phoenix</Source>
+      <Dest>Aurelius de Fênix</Dest>
+    </String>
+    <String List="0">
+      <EDID>CrucifiedVictimAAMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crucified Victim</Source>
+      <Dest>Vítima Crucificada</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortSlaveCrucified</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crucified Slave</Source>
+      <Dest>Escravo Crucificado</Dest>
+    </String>
+    <String List="0">
+      <EDID>vHDRangerKimballGuardTEMPLATE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDPrivateWatson</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Private Jeremy Watson</Source>
+      <Dest>Soldado Jeremy Watson</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDQuartermasterBardon</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Quartermaster Bardon</Source>
+      <Dest>Intendente Bardon</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDGeneralOliver</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>General Lee Oliver</Source>
+      <Dest>General Lee Oliver</Dest>
+    </String>
+    <String List="0">
+      <EDID>VLegionaryVulpesInculta</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Vulpes Inculta</Source>
+      <Dest>Vulpes Inculta</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVNelsonRangerMilo</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Milo</Source>
+      <Dest>Ranger Milo</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVLegionaryAlexus</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Alexus</Source>
+      <Dest>Alexus</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCMrsWeathers</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mrs. Weathers</Source>
+      <Dest>Sra. Weathers</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDNCRTrooper7</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion1a</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion2a</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion3a</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion4</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion4a</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion5</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion5a</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion6</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion6a</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion7</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion7a</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion8</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion8a</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion9</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCLCenturion9a</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderNipton</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderNipton2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>VVulpesIncultaStrip</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Vulpes Inculta</Source>
+      <Dest>Vulpes Inculta</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFortTrooperCrucified</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crucified Trooper</Source>
+      <Dest>Soldado Crucificado</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDLegionAssassinSniper</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>RoseofSharonCassidy</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Cass</Source>
+      <Dest>Cass</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonBoxcars2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Boxcars</Source>
+      <Dest>Boxcars</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCaptive</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDKimballRanger01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDLegionAssassinBomber</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Engineer</Source>
+      <Dest>Engenheiro</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDRangerKimballSharpshooter</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryGuardAAM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime Legionary</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryGuardAM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime Legionary</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryGuardAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryGuardHM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime Legionary</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryGuardHM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime Legionary</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryGuardCM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime Legionary</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryGuardCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime Legionary</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCKennyWeathers</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kenny Weathers</Source>
+      <Dest>Kenny Weathers</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCSammyWeathers</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sammy Weathers</Source>
+      <Dest>Sammy Weathers</Dest>
+    </String>
+    <String List="0">
+      <EDID>TecLegionaryRaiderShotgun</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>vMOSgtKilborn</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sgt. Kilborn</Source>
+      <Dest>Sarg. Kilborn</Dest>
+    </String>
+    <String List="0">
+      <EDID>VBSCLLegionary1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VBSCLVexillariusAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Legion Vexillarius</Source>
+      <Dest>Vexilários da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>vFortGladiatorSlaveCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Slave</Source>
+      <Dest>Escravo</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCaptainGraham</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Grant</Source>
+      <Dest>Ranger Grant</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDCrowdTrooperTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>vHDLVLCLCenturionPowerStation</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfRanger5</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>CampGolfRanger6</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionaryVeteranSleeperAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Legionary</Source>
+      <Dest>Legionário Veterano</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDKimballK9Ranger01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Stevens</Source>
+      <Dest>Ranger Stevens</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDKimballMPTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR MP</Source>
+      <Dest>PM da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderNiptonCaravan</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCrucifix</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCrucifix02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCrucifix03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCrucifix04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCrucifix05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCrucifix06</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryGuardCM3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime Legionary</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRecruitAAMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryVeteranTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Legionary</Source>
+      <Dest>Legionário Veterano</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryPraetorianTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Praetorian Guard</Source>
+      <Dest>Guarda Pretoriana</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDKimballRangerAmbushed01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionaryEntranceGreeter</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Legionary Main Gate Guard</Source>
+      <Dest>Guarda Legionário da Porta Principal</Dest>
+    </String>
+    <String List="0">
+      <EDID>VCottonwoodCoveSlaveCrucified</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crucified Slave</Source>
+      <Dest>Escravo Crucificado</Dest>
+    </String>
+    <String List="0">
+      <EDID>vVMQ02AlerioStrip</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Alerio</Source>
+      <Dest>Alerio</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonNCRTrooperDead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VCottonwoodCoveSlaveCrucified02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crucified Slave</Source>
+      <Dest>Escravo Crucificado</Dest>
+    </String>
+    <String List="0">
+      <EDID>VCottonwoodCoveSlaveDead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crucified Slave</Source>
+      <Dest>Escravo Crucificado</Dest>
+    </String>
+    <String List="0">
+      <EDID>VCottonwoodCoveSlaveDead02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crucified Slave</Source>
+      <Dest>Escravo Crucificado</Dest>
+    </String>
+    <String List="0">
+      <EDID>VCottonwoodCoveSlaveCrucified03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crucified Slave</Source>
+      <Dest>Escravo Crucificado</Dest>
+    </String>
+    <String List="0">
+      <EDID>VCottonwoodCoveSlaveCrucified04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crucified Slave</Source>
+      <Dest>Escravo Crucificado</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCrucifix07</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCrucifix08</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCrucifix09</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCrucifix10</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDIntakeTowerCenturion</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDKimballTrooperTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>vMORangerJackson</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Jackson</Source>
+      <Dest>Ranger Jackson</Dest>
+    </String>
+    <String List="0">
+      <EDID>vMORangerGhost</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ranger Ghost</Source>
+      <Dest>Ranger Ghost</Dest>
+    </String>
+    <String List="0">
+      <EDID>vMOMajorKnight</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Major Knight</Source>
+      <Dest>Major Knight</Dest>
+    </String>
+    <String List="0">
+      <EDID>vMOLacey</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lacey</Source>
+      <Dest>Lacey</Dest>
+    </String>
+    <String List="0">
+      <EDID>JacobstownCalamity</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Calamity</Source>
+      <Dest>Calamity</Dest>
+    </String>
+    <String List="0">
+      <EDID>BattlegearLegionary</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Battlegear Legionary</Source>
+      <Dest>Guerreiro Legionário</Dest>
+    </String>
+    <String List="0">
+      <EDID>BattlegearCenturion</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Battlegear Centurion</Source>
+      <Dest>Centurião de Equipamento de Batalha</Dest>
+    </String>
+    <String List="0">
+      <EDID>BattlegearCombatRanger</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Battlegear Combat Ranger</Source>
+      <Dest>Ranger de Combate</Dest>
+    </String>
+    <String List="0">
+      <EDID>BattlegearRanger</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Battlegear Ranger</Source>
+      <Dest>Ranger</Dest>
+    </String>
+    <String List="0">
+      <EDID>BattlegearNCRTrooper</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Battlegear NCRTrooper</Source>
+      <Dest>Soldado da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>vHDLVLCLCenturionNCRBattleSniper</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDOliverRanger01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDOliverRanger02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCJack</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Jack</Source>
+      <Dest>Jack</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCDiane</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Diane</Source>
+      <Dest>Diane</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCRegis</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Regis</Source>
+      <Dest>Regis</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRHeavyTrooperFireSupport</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Heavy Trooper</Source>
+      <Dest>Soldado Pesado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRHeavyTrooperCMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Heavy Trooper</Source>
+      <Dest>Soldado Pesado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCJerrythePunk</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Jerry the Punk</Source>
+      <Dest>Jerry o Punk</Dest>
+    </String>
+    <String List="0">
+      <EDID>GhoulJasonBright</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Jason Bright</Source>
+      <Dest>Jason Bright</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDKimballMP03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDKimballMP04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VLegionaryPraetorianLegateCamp02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Praetorian Guard</Source>
+      <Dest>Guarda Pretoriana</Dest>
+    </String>
+    <String List="0">
+      <EDID>VLegionaryPraetorianLegateCamp03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Praetorian Guard</Source>
+      <Dest>Guarda Pretoriana</Dest>
+    </String>
+    <String List="0">
+      <EDID>VLegionaryPraetorianLegateCamp04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Praetorian Guard</Source>
+      <Dest>Guarda Pretoriana</Dest>
+    </String>
+    <String List="0">
+      <EDID>VLegionaryPraetorianLegateCamp05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Praetorian Guard</Source>
+      <Dest>Guarda Pretoriana</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanAAF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanCM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanHF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanAAF2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanAAM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanHF2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanAAF3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanAAM3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanCM3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanHF3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDStartingCampDecanus02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Decanus</Source>
+      <Dest>Decano Primário</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCGNCRTrooperDeadAAM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCGNCRTrooperDeadAAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCGNCRTrooperDeadAM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCGNCRTrooperDeadAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCGNCRTrooperDeadAM3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCGNCRTrooperDeadHM3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCGNCRTrooperDeadHM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCGNCRTrooperDeadHM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCGNCRTrooperDeadCM3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCGNCRTrooperDeadCM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCGNCRTrooperDeadCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDRangerOliverGuard</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Veteran Ranger</Source>
+      <Dest>Ranger Veterano da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMSHDBrotherhoodPaladin</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Paladin Todd</Source>
+      <Dest>Paladino Todd</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDKimballRangerTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDLegionWestDamRanger04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDOliverRanger</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>CampSearchlightTrainingDummy</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Training Dummy</Source>
+      <Dest>Boneco de Treinamento </Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanMessenger</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDLegionOliverNCRHeavyTrooper</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Heavy Trooper</Source>
+      <Dest>Soldado Pesado da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDLegionOliverFakeLegate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Legate Lanius</Source>
+      <Dest>Embaixador Lanius </Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDLegionLegateCampNCRTrooper1Dead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS49Max</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Max</Source>
+      <Dest>Max</Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanaArmoryHF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan Armorer</Source>
+      <Dest>Armeiro Grande Khan </Dest>
+    </String>
+    <String List="0">
+      <EDID>VRRCGreatKhanArmoryCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDDeadLegionary</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDOliverRangerSniper</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDOliverRangerTrapper</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsDealer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Card Dealer</Source>
+      <Dest>Crupier</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStripSS1AdmirerD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsGamblerCFg</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Gambler</Source>
+      <Dest>Apostador</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRRangerCivilianAAMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderShotgun2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>SLGoodspringsCave01DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>SLGoodspringsCave02DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wastelander</Source>
+      <Dest>Habitante da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryRaiderShotgun3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>CrimsonCaravanTraderGuardAAMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Crimson Caravan Guard</Source>
+      <Dest>Guarda da Caravana Carmesim</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRTrooperLeaderHF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADCrashedVertibirdPilot</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Vertibird Pilot</Source>
+      <Dest>Piloto de Vertibird</Dest>
+    </String>
+    <String List="0">
+      <EDID>DEADWannabeGhoul</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Trash</Source>
+      <Dest>Trash</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVLegionaryGabban</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Gabban</Source>
+      <Dest>Gabban</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVNiptonLegionaryDecanus</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Decanus</Source>
+      <Dest>Recruit Decanus</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonDeadLegionary</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>GourdDEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Gourd</Source>
+      <Dest>Gourd</Dest>
+    </String>
+    <String List="0">
+      <EDID>2CDocSawbones</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Doc Sawbones</Source>
+      <Dest>Dr. Serraossos</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortCaesarTentGuard</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Praetorian Guard</Source>
+      <Dest>Guarda Pretoriana</Dest>
+    </String>
+    <String List="0">
+      <EDID>TCGreatKhan01DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>TCGreatKhan02DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Great Khan</Source>
+      <Dest>Grande Khan</Dest>
+    </String>
+    <String List="0">
+      <EDID>TCFiend01DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Fiend</Source>
+      <Dest>Diabo</Dest>
+    </String>
+    <String List="0">
+      <EDID>TCFiend02DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Fiend</Source>
+      <Dest>Diabo</Dest>
+    </String>
+    <String List="0">
+      <EDID>TCFiend03DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Fiend</Source>
+      <Dest>Diabo</Dest>
+    </String>
+    <String List="0">
+      <EDID>TCBurnedBody02DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Burned Body</Source>
+      <Dest>Corpo Queimado</Dest>
+    </String>
+    <String List="0">
+      <EDID>TCBurnedBody01DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Burned Body</Source>
+      <Dest>Corpo Queimado</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDDeadNCRTrooper</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDDeadEngineer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Engineer</Source>
+      <Dest>Engenheiro</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDDeadNCRRanger</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDDeadCenturion</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSSergio</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sergio</Source>
+      <Dest>Sergio</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSAtomicWranglerGuard6</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Atomic Wrangler Guard</Source>
+      <Dest>Guarda do Vaqueiro Atômico</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSAtomicWranglerGuard5</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Atomic Wrangler Guard</Source>
+      <Dest>Guarda do Vaqueiro Atômico</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSAtomicWranglerGuard4</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Atomic Wrangler Guard</Source>
+      <Dest>Guarda do Vaqueiro Atômico</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSAtomicWranglerGuard3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Atomic Wrangler Guard</Source>
+      <Dest>Guarda do Vaqueiro Atômico</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSAtomicWranglerGuard2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Atomic Wrangler Guard</Source>
+      <Dest>Guarda do Vaqueiro Atômico</Dest>
+    </String>
+    <String List="0">
+      <EDID>VFSAtomicWranglerGuard</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Atomic Wrangler Guard</Source>
+      <Dest>Guarda do Vaqueiro Atômico</Dest>
+    </String>
+    <String List="0">
+      <EDID>SafehouseLegionVeteran</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Atticus</Source>
+      <Dest>Veterano Atticus</Dest>
+    </String>
+    <String List="0">
+      <EDID>1ESharecropperMorganBlake</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Morgan Blake</Source>
+      <Dest>Morgan Blake</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVPaladinDead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Paladin</Source>
+      <Dest>Paladino da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVPaladinDead02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Paladin</Source>
+      <Dest>Paladino da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVPaladinDead03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Paladin</Source>
+      <Dest>Paladino da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVPaladinDead04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Paladin</Source>
+      <Dest>Paladino da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVPaladinDead05</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Paladin</Source>
+      <Dest>Paladino da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVPaladinDead06</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Paladin</Source>
+      <Dest>Paladino da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS49FollowersGuard1DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Guarda dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS49FollowersGuard2DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Guarda dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS49FollowersGuard3DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Guarda dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS49FollowersGuard1</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Guarda dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS49FollowersGuard2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Followers Guard</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS49FollowersGuard3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Guard</Source>
+      <Dest>Followers Guard</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS49DoctorAlvarezDEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Doctor Alvarez</Source>
+      <Dest>Doutor Alvarez</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS49FollowersDoctor1DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Doctor</Source>
+      <Dest>Doutor dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VMS49FollowersDoctor2DEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Followers Doctor</Source>
+      <Dest>Doutor dos Seguidores</Dest>
+    </String>
+    <String List="0">
+      <EDID>VES03WastelandAdventurer</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Wasteland Adventurer</Source>
+      <Dest>Aventureiro da Wasteland</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStripSS3Watcher01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStripSS3Watcher02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStripSS3TrooperDancerGomorrah02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStripSS3TrooperDancerGomorrah01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>TecLegionaryRaiderGuard</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>vLegionaryFactionRewardNPC</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Disguised Frumentarius</Source>
+      <Dest>Frumentarius Disfarçado</Dest>
+    </String>
+    <String List="0">
+      <EDID>BoomerMessCM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Boomer Munitions Manager</Source>
+      <Dest>Gerenciador de Munição dos Boomers</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVScout03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scout</Source>
+      <Dest>Batedor da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVScout02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scout</Source>
+      <Dest>Batedor da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVScout01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scout</Source>
+      <Dest>Batedor da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodOfSteelPaladinTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood of Steel Paladin</Source>
+      <Dest>Paladino da Irmandade de Aço</Dest>
+    </String>
+    <String List="0">
+      <EDID>VVault34AAF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Vault 34 Dweller</Source>
+      <Dest>Morador do Vault 34</Dest>
+    </String>
+    <String List="0">
+      <EDID>VVault34CF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Vault 34 Dweller</Source>
+      <Dest>Morador do Vault 34</Dest>
+    </String>
+    <String List="0">
+      <EDID>VVault34AM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Vault 34 Dweller</Source>
+      <Dest>Morador do Vault 34</Dest>
+    </String>
+    <String List="0">
+      <EDID>VVault34Horowitz</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Horowitz</Source>
+      <Dest>Horowitz</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsDealer02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Card Dealer</Source>
+      <Dest>Crupier</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsDealer04</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Card Dealer</Source>
+      <Dest>Crupier</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsDealer03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Card Dealer</Source>
+      <Dest>Crupier</Dest>
+    </String>
+    <String List="0">
+      <EDID>VESDoctorRotson</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Doctor Rotson</Source>
+      <Dest>Doutor Rotson</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVProspectorMerchantPrimmDen</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prospector Merchant</Source>
+      <Dest>Garimpeiro Comerciante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VEFR02NCRThugLeaderCF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VEFR02NCRThug01CM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VEFR02NCRThug02HF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VEFR02NCRThug03HM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VEFR01NCRSupportRanger01CF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VEFR01NCRSupportRanger02HM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VEFR01NCRSupportRanger03AAF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Veteran Ranger</Source>
+      <Dest>Ranger Veterano da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VEFR01NCRRadioOperator</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VEFR01NCRSupportTrooper01AAM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortPraetorianTentGuard</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Praetorian Guard</Source>
+      <Dest>Guarda Pretoriana</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionaryRecruitCM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionaryRecruitHM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Recruit Legionary</Source>
+      <Dest>Legionário Recruta</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionaryDecanusAAMTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Decanus</Source>
+      <Dest>Decano Veterano</Dest>
+    </String>
+    <String List="0">
+      <EDID>MojaveOutpostTravelerAAF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Caravaneer</Source>
+      <Dest>Caravaneiro</Dest>
+    </String>
+    <String List="0">
+      <EDID>VForlornHopeNCRTrooperRefugee</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeHM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVBrotherhoodScribeHF</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>HVGoodBenefitScribe</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Brotherhood Scribe</Source>
+      <Dest>Escriba da Irmandade</Dest>
+    </String>
+    <String List="0">
+      <EDID>FortLegionarySparringHM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Legionary</Source>
+      <Dest>Legionário Veterano</Dest>
+    </String>
+    <String List="0">
+      <EDID>RSEchoRangerGhoul01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>RSEchoRangerGhoul02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger</Source>
+      <Dest>Ranger NCR </Dest>
+    </String>
+    <String List="0">
+      <EDID>VFortBennyCrucified</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Benny</Source>
+      <Dest>Benny</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStreetSS6Trooper01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VStreetSS6Trooper02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>vNiptonSurvivorCaptive02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialMercenaryMaleGroup01WB</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mercenary</Source>
+      <Dest>Mercenário</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialMercenaryFemaleGroup01WB</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mercenary</Source>
+      <Dest>Mercenária </Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialMerchantFemaleGroup02WB</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Traveling Merchant</Source>
+      <Dest>Mercador Ambulante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialMerchantMaleGroup01WB</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Traveling Merchant</Source>
+      <Dest>Mercador Ambulante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnMerchantFemaleGroup02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Traveling Merchant</Source>
+      <Dest>Mercadora Ambulante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnMerchantFemaleGroup01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Traveling Merchant</Source>
+      <Dest>Mercadora Ambulante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnMerchantMaleGroup02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Traveling Merchant</Source>
+      <Dest>Mercador Ambulante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnMerchantMaleGroup01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Traveling Merchant</Source>
+      <Dest>Mercador Ambulante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialMerchantFemaleGroup01Novac</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Traveling Merchant</Source>
+      <Dest>Mercadora Ambulante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialMercenaryMaleGroup02Novac</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mercenary</Source>
+      <Dest>Mercenário</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialMercenaryFemaleGroup02NV01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mercenary</Source>
+      <Dest>Mercenária</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialMerchantMaleGroup02NV01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Traveling Merchant</Source>
+      <Dest>Mercador Ambulante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialMercenaryMaleGroup02NV02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mercenary</Source>
+      <Dest>Mercenário</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialMerchantFemaleGroup01NV02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Traveling Merchant</Source>
+      <Dest>Mercadora Ambulante</Dest>
+    </String>
+    <String List="0">
+      <EDID>VLegionaryWastelandVeteranT2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Legionary</Source>
+      <Dest>Legionário Veterano</Dest>
+    </String>
+    <String List="0">
+      <EDID>VLegionaryWastelandDecanusT2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Decanus</Source>
+      <Dest>Decano Primário</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialLegionWreckedDecanusT2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Decanus</Source>
+      <Dest>Decano Primário</Dest>
+    </String>
+    <String List="0">
+      <EDID>VNCRWastelandFemaleTrooperA</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VNCRWastelandFemaleTrooperBDUPLICATE000</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VNCRWastelandFemaleTrooperE</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VNCRWastelandFemaleTrooperG</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VNCRWastelandFemaleTrooperJ</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Trooper</Source>
+      <Dest>Soldado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VSpawnSpecialGangerGS01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Powder Ganger</Source>
+      <Dest>Arruaceiro da Polvorá</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryVexillariusTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Legion Vexillarius</Source>
+      <Dest>Legion Vexillarius</Dest>
+    </String>
+    <String List="0">
+      <EDID>vHDLVLNCRRangerEliteNCRBattleMojave</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Ranger Veteran</Source>
+      <Dest>Veterano Ranger NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>REPCONGhoulDead03</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Bright Follower</Source>
+      <Dest>Seguidora da Luz</Dest>
+    </String>
+    <String List="0">
+      <EDID>VTopsChairman4</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Chairman</Source>
+      <Dest>Chairman</Dest>
+    </String>
+    <String List="0">
+      <EDID>VLegionaryWastelandDecanusT3</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Decanus</Source>
+      <Dest>Decano Veterano</Dest>
+    </String>
+    <String List="0">
+      <EDID>LegionaryPrimeTemplate</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime da Legião</Dest>
+    </String>
+    <String List="0">
+      <EDID>VLegionaryWastelandCenturionT4</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Centurion</Source>
+      <Dest>Centurião</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryVeteranGuardHM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Legionary</Source>
+      <Dest>Legionário Veterano</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryVeteranGuardAM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Prime Legionary</Source>
+      <Dest>Prime Legionary</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryVeteranGuardAAM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Legionary</Source>
+      <Dest>Legionário Veterano</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVCCLegionaryVeteranGuardCM2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Veteran Legionary</Source>
+      <Dest>Legionário Veterano</Dest>
+    </String>
+    <String List="0">
+      <EDID>NCRRangerVeteranGhoulM</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Veteran Ranger</Source>
+      <Dest>Ranger Veterano da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VHDNCRTrooper7Heavy</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Heavy Trooper</Source>
+      <Dest>Soldado Pesado NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>VJackalGangFemaleDEADTier2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Jackal Gang Member</Source>
+      <Dest>Membro da Gangue Jackal</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC01Elijah</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Father Elijah</Source>
+      <Dest>Senhor Elijah</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC01HologramCasinoMale</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Hologram</Source>
+      <Dest>Holograma</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC01StarletSkeletonBase</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Vera&apos;s Skeleton</Source>
+      <Dest>Esqueleto de Vera</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC02FollowsChalk</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Follows-Chalk</Source>
+      <Dest>Segue-Giz</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC02WhiteLegDEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dead White Legs Tribal</Source>
+      <Dest>Tribal dos Pernas Brancas Morto</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC02SorrowDEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dead Sorrows Tribal</Source>
+      <Dest>Tribal dos Aflitos Morto</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC02Sorrow3MDead</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sorrows Tribal</Source>
+      <Dest>Tribal dos Aflitos</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC02DeadHorse3MDEAD</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dead Horse Tribal</Source>
+      <Dest>Tribal Carvalo Morto</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC02Sorrow3M</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sorrows Tribal</Source>
+      <Dest>Tribal dos Aflitos</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC03Lobotomite01Avg</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lobotomite</Source>
+      <Dest>Lobotomita</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC03Lobotomite02Avg</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lobotomite</Source>
+      <Dest>Lobotomita</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC03Lobotomite03Avg</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lobotomite</Source>
+      <Dest>Lobotomita</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC03Lobotomite04Avg</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lobotomite</Source>
+      <Dest>Lobotomita</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC03Lobotomite02AvgRespawn</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lobotomite</Source>
+      <Dest>Lobotomita</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC03Lobotomite03AvgRespawn</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lobotomite</Source>
+      <Dest>Lobotomita</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC03Lobotomite04AvgRespawn</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lobotomite</Source>
+      <Dest>Lobotomita</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC03DeadGhoul</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dead Yangtze Camp Survivor</Source>
+      <Dest>Sobrevivente do Acampamento Yangtze Morto</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC03Lobotomite01AvgRespawn</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Lobotomite</Source>
+      <Dest>Lobotomita</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC04DivideMarkedMenScout</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Marked Men Scout</Source>
+      <Dest>Batedor dos Homens Marcados</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC04TempleMarkedMenRavager01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Marked Men Ravager</Source>
+      <Dest>Assaltante dos Homens Marcados</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC04TempleMarkedMenRavager02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Marked Men Ravager</Source>
+      <Dest>Assaltante dos Homens Marcados</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC04DeadNCRRangerVeteran</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>NCR Veteran Ranger</Source>
+      <Dest>Ranger Veterano da NCR</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC04NukeLegionLegionaryMelee</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Irradiated Legionary Prime</Source>
+      <Dest>Legionário Primário Irradiado</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC04TempleMarkedMenRavager02Weak</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Marked Men Ravager</Source>
+      <Dest>Assaltante dos Homens Marcados</Dest>
+    </String>
+    <String List="0">
+      <EDID>NVDLC04TempleMarkedMenRavager01Weak</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Marked Men Ravager</Source>
+      <Dest>Assaltante dos Homens Marcados</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
