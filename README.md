@@ -12,8 +12,6 @@ Para usar esses dicionários na tradução do MOD, basta baixar os .sst e dentro
 
 - Tradução Fallout NV + DLCs: [Nexus](https://www.nexusmods.com/newvegas/mods/72771/)
 - Tradução do YUP: [Nexus](https://www.nexusmods.com/newvegas/mods/72785/)
-- Tradução Asterra's Many Fixes: [Nexus](https://www.nexusmods.com/newvegas/mods/72788)
-- Tradução Logic and Consistency Fixes: [Nexus](https://www.nexusmods.com/newvegas/mods/72790)
 - Tradução Unofficial Patch NVSE Plus: [Nexus](https://www.nexusmods.com/newvegas/mods/72791/)
 
 
